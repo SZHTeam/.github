@@ -21,7 +21,7 @@
 ## Контакты
 
 - **Email**: [spacesdz.assistance@gmail.com](mailto:spacesdz.assistance@gmail.com)
-- **Telegram**: [@SDZTeamBot](https://)
+- **Telegram**: [@SDZTeamBot](https://t.me/SDZTeamBot)
 - **Website**: [sdzteam.com](https://sdzteam.com)
 
 Спасибо, что посетили нашу команду!
