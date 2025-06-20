@@ -42,7 +42,7 @@
 
 ## 📡 Связаться с нами
 
-- ✉️ Email: [spacesdz.assistance@gmail.com](mailto:spacesdz.assistance@gmail.com)
+- ✉️ Email: [spacesdz.assistance@gmail.com](git.marbled122@passinbox.com)
 - 📲 Telegram: [@SDZTeamBot](https://t.me/SDZTeamBot)
 - 🌍 Website: [sdzteam.com](https://sdzteam.com)
 
