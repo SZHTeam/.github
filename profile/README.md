@@ -107,9 +107,5 @@ public class GameDev {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c2882,100:22F1C4&height=120&section=footer" />
-</div>
-
-<div align="center">
   <code>© 2023-2025 ZSHTeam. Crafting the Future with Code.</code>
 </div>
